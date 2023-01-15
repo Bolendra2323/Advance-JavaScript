@@ -1,0 +1,182 @@
+Qstn-1> JavaScript Execution Context – How JS Works Behind The Scenes?
+
+Ans--> https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes/
+
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-2> The JavaScript Call Stack - What It Is and Why It's Necessary?
+
+Ans--> https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-3> Creation Phase and Execution Phase in JavaScript?
+
+Ans--> https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes/
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-4> What is Hoisting in JavaScript?
+
+Ans--> https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-5> Lexical Scope in JavaScript – What Exactly Is Scope in JS?
+
+Ans--> https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-6> Use of strict in javascript?
+
+Ans-->https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-7> The Complete Guide to this keyword in JavaScript?
+
+Ans--> https://www.freecodecamp.org/news/the-complete-guide-to-this-in-javascript/
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-8> Everything is an object in javascript?
+
+Ans--> https://www.freecodecamp.org/news/objects-in-javascript-for-beginners/#:~:text=What%20Are%20Objects%20in%20JavaScript,of%20data%20as%20its%20values.
+
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-9> Array is an Object in JavaScript?
+
+Ans--> https://www.freecodecamp.org/news/the-javascript-array-handbook/
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-10> Pass by value and Pass by reference in javascript freecodecamp?
+
+Ans--> https://www.freecodecamp.org/news/how-to-get-a-grip-on-reference-vs-value-in-javascript-cba3f86da223/
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-11> What is JavaScript Functional Programming?
+
+Ans--> https://www.freecodecamp.org/news/functional-programming-in-javascript/
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-12> Everything about callback in javascript?
+
+Ans--> https://www.freecodecamp.org/news/what-is-a-callback-function-in-javascript-js-callbacks-example-tutorial/#:~:text=A%20callback%20is%20a%20function,the%20parent%20function%20is%20used.
+
+******************************************************************************************************************************************************************************************************************
+
+
+Qstn-13> Higher Order Function in JavaScript?
+
+Ans--> https://www.freecodecamp.org/news/higher-order-functions-in-javascript/#:~:text=Basically%2C%20a%20function%20which%20takes,a%20function%20from%20another%20function
+
+******************************************************************************************************************************************************************************************************************
+
+
+Qstn-14> IIFE (Immediately Invoked Function Expression) in JavaScript?
+
+Ans--> https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/#what-is-a-javascript-immediately-invoked-function-expression
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-15> Closure in JavaScript?
+
+Ans--> https://www.freecodecamp.org/news/closures-in-javascript/
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-16> How to Use the Call, Apply, and Bind Functions in JavaScript?
+
+Ans--> https://www.freecodecamp.org/news/understand-call-apply-and-bind-in-javascript-with-examples/
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-17> For Each loop in javascript ?
+
+Ans--> https://www.freecodecamp.org/news/javascript-foreach-how-to-loop-through-an-array-in-js/
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-18> Iterators in JavaScript?
+
+Ans--> https://www.freecodecamp.org/news/javascript-iterators-17ab32c3cae7/
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-19> ES6 JAVASCRIPT?
+
+Ans--> https://www.freecodecamp.org/news/learn-modern-javascript-in-this-free-28-part-course-7ec8d353eb/
+
+        https://medium.com/@musturi.rakesh/best-es6-features-in-javascript-69a0b16425ce
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-20> Destructuring in JavaScript – How to Destructure Arrays and Objects?
+
+Ans--> https://www.freecodecamp.org/news/destructuring-patterns-javascript-arrays-and-objects/
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-21> ES6 Default Parameters in JavaScript 
+
+Ans--> https://www.freecodecamp.org/news/learn-es6-the-dope-way-part-iv-default-parameters-destructuring-assignment-a-new-es6-method-44393190b8c9/
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-22> REST Parameter  and SPREAD Operator?
+
+Ans--> https://www.freecodecamp.org/news/javascript-rest-vs-spread-operators/
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-25> JavaScript Math Functions Explained?
+
+Ans--> https://www.freecodecamp.org/news/math-in-javascript/#:~:text=Math%20is%20one%20of%20JavaScript's,of%20many%20of%20those%20functions.
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-26> Exponentiation Operator in ES6 in JavaScript?
+
+Ans--> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-27> Numbers & Global Methods in JavaScript?
+
+Ans--> //JavaScript Number Methods ---> https://www.w3schools.com/js/js_number_methods.asp
+
+       //JavaScript Function Methods ---> 
+
+       Method	Description
+
+apply()	It is used to call a function contains this value and a single array of arguments.
+bind()	It is used to create a new function.
+call()	It is used to call a function contains this value and an argument list.
+toString()	It returns the result in a form of a string.
+
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-28> Classes, Object & Inheritance in JavaScript ?
+
+Ans--> https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/
+
+******************************************************************************************************************************************************************************************************************
+
+Qstn-29> Synchronous vs Asynchronous Programming in JavaScript ?
+
+Ans--> https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/
+
+******************************************************************************************************************************************************************************************************************
+
+
+Qstn-30> The Event Loop in JavaScript ?
+
+Ans--> https://www.freecodecamp.org/news/javascript-concurrency-model-and-event-loop/
